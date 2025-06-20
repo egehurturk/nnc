@@ -1,13 +1,11 @@
-# Neural Network for detecting MNIST Images
+# A Neural Network Library, written in purely C
 
-This module implements a simple fully-connected NN in pure C, aimed to classify handwritten MNIST digits (0-9).
 It includes:
 
 * Dynamic architecture (arbitrary hidden layers)
 * Forward and backward propagation
 * SGD training loop with progress bar
 * Save/load model to file
-* Predict 28x28 PNG images
 
 ## Project Structure
 
